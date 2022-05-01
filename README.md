@@ -43,6 +43,9 @@ A streamlined project management app that strips away excess functionalities and
   - Ability to opt-in to text notifications
 - Minimalistic dark theme design
 
+## Live Demo
+Demo site has been deployed on [Netlify](https://blueprint-v1.netlify.app/).
+
 ## Screenshots
 
 ### Home Page
