@@ -95,7 +95,7 @@ Demo site has been deployed on [Netlify](https://blueprint-v1.netlify.app/).
 ## **Client**
 
 ```sh
-cd frontend
+cd client
 ```
 
 ### Setup
