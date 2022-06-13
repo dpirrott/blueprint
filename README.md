@@ -25,7 +25,7 @@
 
 # Summary
 
-A streamlined project management app that strips away excess functionalities and focuses on simplictiy of user experience. This application was built using React, Express, Node, and Chakra UI.
+A streamlined project management app that strips away excess functionalities and focuses on the simplicitiy of user experience. This application was built using React, Express, Node, and Chakra UI.
 
 ## Features
 
